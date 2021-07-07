@@ -1,0 +1,8 @@
+.todoList {
+  max-height: 50vh;
+  overflow: scroll;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+}
